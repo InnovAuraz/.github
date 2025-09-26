@@ -13,15 +13,18 @@ We are a passionate team of developers, designers, and innovators from **Narula 
 
 | Role | Name | GitHub | LinkedIn | Expertise |
 |------|------|--------|----------|-----------|
-| **Team Leader** | Md Zafir Hasan | [@your-github](https://github.com/your-github) | [LinkedIn](https://linkedin.com/in/your-profile) | Full-Stack Development |
-| **Technical Lead** | [Teammate 2] | [@teammate2](https://github.com/teammate2) | [LinkedIn](https://linkedin.com/in/teammate2) | Backend & Blockchain |
-| **AI/ML Developer** | [Teammate 3] | [@teammate3](https://github.com/teammate3) | [LinkedIn](https://linkedin.com/in/teammate3) | Machine Learning |
-| **Business Analyst** | [Teammate 4] | [@teammate4](https://github.com/teammate4) | [LinkedIn](https://linkedin.com/in/teammate4) | Strategy & Analysis |
+| **Team Leader** | JANVI SINHA | [@janvisinha01](https://github.com/janvisinha01) | [LinkedIn](https://www.linkedin.com/in/janvi-sinha-2a8106292) | UI/UX/REPRESENTATIVE |
+| **Research Specialist** | MD ZAFIR HASAN | [@CodeWithZayf](https://github.com/codewithzayf) | [LinkedIn](https://www.linkedin.com/in/mdzafirhasan) | Research & Documentation |
+| **AI/ML Developer** | [SNEHASIS DAS] | [@Snehasis-Das](https://github.com/Snehasis-Das) | [LinkedIn](https://linkedin.com/in/teammate3) | Machine Learning |
+| **Business Analyst** | [Teammate 4] | [@teammate4](https://github.com/teammate4) | [LinkedIn](https://linkedin.com/in/teammate4) | Strategy &  Analysis |
 | **Research Specialist** | [Teammate 5] | [@teammate5](https://github.com/teammate5) | [LinkedIn](https://linkedin.com/in/teammate5) | Research & Documentation |
+| **Research Specialist** | [Teammate 5] | [@teammate5](https://github.com/teammate5) | [LinkedIn](https://linkedin.com/in/teammate5) | Research & Documentation |
+
 
 </div>
 ---
-
+Technical Lead
+AI/ML Developer
 ## 🛠️ Our Tech Arsenal
 
 ### **Programming Languages**
